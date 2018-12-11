@@ -2,6 +2,8 @@
 
 A terminal based game called Real Estate Tycoon which acts similar to Monopoly. The goal is to try to reach $1,000,000 in account value by buying and selling homes, apartments and businesses before the account value reaches $0. The program is made in C++.
 
+**This program was made for an assignment in a Computer Science class, DO NOT copy for commercial or educational use.**
+
 Some example output:
 
       Welcome to Real Estate Tycoon!
